@@ -18,7 +18,7 @@ class Program
             {
                 output += "Bar";
             }
-            if (output == i.ToString() + " - ")
+            if (output == i.ToString() + "  ")
             {
                 output += i.ToString();
             }
